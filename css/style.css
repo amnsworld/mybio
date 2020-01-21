@@ -1,0 +1,48 @@
+body {
+    background-color:#ecf0f1;
+    font-family: helvetica, arial, sans-serif;
+    line-height: 1.5;
+ }
+.header{
+    background-color: #292826;
+}
+.main-heading{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #f9d342;
+}
+
+.main-navigation{
+    text-align: center;
+}
+.main-navigation a {
+    color: #f9d342;    
+}
+.main-navigation ul {
+    list-style-type: none;    
+}
+
+.section-headings{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#c0392b;
+}
+.skill-list{
+     color:#8e44ad;
+     list-style-type: disc;
+ }
+ .article-headings{
+     color: #295f2d;
+ }
+
+.footer{
+    background-color: #ffe67c;
+    text-align: center;
+}
+.contact-address a {
+    color: #295f2d;
+}
+.email-icon{
+    width: 1.1em;
+    height: 1.1em;
+}
+
